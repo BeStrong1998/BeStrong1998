@@ -2,7 +2,8 @@
 
 - 👨‍💻 Мои проекты: [https://github.com/BeStrong1998?tab=repositories](https://github.com/BeStrong1998?tab=repositories)
 
-- 📫 Связаться со мной можно **oamalaxov1@gmail.com**
+- 📫 Связаться со мной можно **oamalaxov1@gmail.com** 
+- Телеграмм: https://t.me/Oleg_Malaxov
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
