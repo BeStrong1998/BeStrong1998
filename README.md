@@ -1,11 +1,11 @@
-<h2 align="center">Привет всем 👋 меня зовут Олег Малахов.Я из Москвы и увлекаюсь разработкой на Python.</h2>
+<h2 align="center">Привет всем 👋 меня зовут Олег Малахов. Я из Москвы и увлекаюсь разработкой на Python.</h2>
 
  <br>
 👨‍💻 <a href='https://github.com/BeStrong1998?tab=repositories'>Мои проекты</a>.
  <br>
 
 
-### 📫 Связаться со мной можно:
+## 📫 Связаться со мной можно:
 - **oamalaxov1@gmail.com**;
 - https://t.me/Oleg_Malaxov;
 
