@@ -5,8 +5,8 @@
  <br>
 
 ## 📫 Связаться со мной можно:
-- **oamalaxov1@gmail.com**;
-- https://t.me/Oleg_Malaxov;
+- **oamalaxov1@gmail.com**
+- https://t.me/Oleg_Malaxov
 
 #
 
