@@ -1,7 +1,7 @@
 <h2 align="center">Привет всем 👋 меня зовут Олег Малахов. Я из Москвы и увлекаюсь разработкой на Python.</h2>
 
  <br>
-👨‍💻 <a href='https://github.com/BeStrong1998?tab=repositories'>Мои проекты</a>.
+👨‍💻 <a href='https://github.com/BeStrong1998?tab=repositories'>Мои проекты</a>
  <br>
 
 ## 📫 Связаться со мной можно:
